@@ -1,0 +1,10 @@
+[
+  {"resource_name": "Python Official Documentation", "topic": "Python", "platform": "Python.org", "description": "Official beginner to advanced Python documentation.", "open_resource": "https://docs.python.org/3/"},
+  {"resource_name": "SQLBolt", "topic": "SQL", "platform": "SQLBolt", "description": "Interactive SQL practice and tutorial lessons.", "open_resource": "https://sqlbolt.com/"},
+  {"resource_name": "Kaggle Learn", "topic": "Machine Learning", "platform": "Kaggle", "description": "Hands-on ML tutorials and guided projects.", "open_resource": "https://www.kaggle.com/learn"},
+  {"resource_name": "Microsoft Learn", "topic": "Data Visualization", "platform": "Microsoft", "description": "Free modules on Power BI, Excel, and analytics.", "open_resource": "https://learn.microsoft.com/"},
+  {"resource_name": "freeCodeCamp", "topic": "Web Development", "platform": "freeCodeCamp", "description": "Free coding tutorials and projects.", "open_resource": "https://www.freecodecamp.org/"},
+  {"resource_name": "Coursera", "topic": "Data Analyst", "platform": "Coursera", "description": "Structured online course learning tracks.", "open_resource": "https://www.coursera.org/"},
+  {"resource_name": "Google UX Design Certificate", "topic": "UX Design", "platform": "Google", "description": "Beginner-friendly UX certificate and learning path.", "open_resource": "https://grow.google/ux-design/"},
+  {"resource_name": "W3Schools", "topic": "HTML", "platform": "W3Schools", "description": "Practical web technology tutorials.", "open_resource": "https://www.w3schools.com/"}
+]

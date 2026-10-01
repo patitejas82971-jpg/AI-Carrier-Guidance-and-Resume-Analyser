@@ -1,0 +1,822 @@
+[
+  {
+    "role": "Data Scientist",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "NumPy",
+      "Data Visualization",
+      "Power BI"
+    ],
+    "certifications": [
+      "Google Data Analytics Professional Certificate",
+      "IBM Data Science Professional Certificate",
+      "AWS Machine Learning Specialty"
+    ],
+    "recommended_projects": [
+      "Customer Churn Prediction",
+      "Sales Forecasting Dashboard",
+      "Fraud Detection",
+      "Recommendation Engine"
+    ],
+    "learning_path": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Machine Learning",
+      "Data Visualization"
+    ],
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Pandas",
+      "NumPy",
+      "Data Visualization",
+      "Power BI"
+    ]
+  },
+  {
+    "role": "Data Analyst",
+    "skills": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Python",
+      "Data Cleaning",
+      "Dashboard Design",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "certifications": [
+      "Google Data Analytics Professional Certificate",
+      "Microsoft Power BI Certification",
+      "Tableau Desktop Specialist"
+    ],
+    "recommended_projects": [
+      "Sales Dashboard",
+      "Customer Segmentation",
+      "Marketing Funnel Analysis",
+      "KPI Reporting"
+    ],
+    "learning_path": [
+      "Excel",
+      "SQL",
+      "Data Visualization",
+      "Power BI",
+      "Dashboard Design"
+    ],
+    "required_skills": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Python",
+      "Data Cleaning",
+      "Dashboard Design",
+      "Statistics",
+      "Data Visualization"
+    ]
+  },
+  {
+    "role": "Software Developer",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git",
+      "APIs",
+      "Databases",
+      "Problem Solving"
+    ],
+    "certifications": [
+      "AWS Cloud Practitioner",
+      "Google Associate Cloud Engineer",
+      "Meta Front-End Developer Professional Certificate"
+    ],
+    "recommended_projects": [
+      "Task Manager App",
+      "E-commerce Frontend",
+      "REST API Service",
+      "Portfolio Website"
+    ],
+    "learning_path": [
+      "Programming Fundamentals",
+      "Web Development",
+      "APIs",
+      "Databases",
+      "Version Control"
+    ],
+    "required_skills": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git",
+      "APIs",
+      "Databases",
+      "Problem Solving"
+    ]
+  },
+  {
+    "role": "UX Designer",
+    "skills": [
+      "Figma",
+      "User Research",
+      "Wireframing",
+      "Prototyping",
+      "Interaction Design",
+      "Usability Testing",
+      "Design Systems",
+      "Accessibility"
+    ],
+    "certifications": [
+      "Google UX Design Certificate",
+      "Adobe Certified Professional",
+      "Interaction Design Foundation"
+    ],
+    "recommended_projects": [
+      "Mobile Banking App UI",
+      "E-learning Dashboard",
+      "Food Delivery UX",
+      "Travel App Flow"
+    ],
+    "learning_path": [
+      "User Research",
+      "Wireframing",
+      "Interaction Design",
+      "Accessibility",
+      "Prototyping"
+    ],
+    "required_skills": [
+      "Figma",
+      "User Research",
+      "Wireframing",
+      "Prototyping",
+      "Interaction Design",
+      "Usability Testing",
+      "Design Systems",
+      "Accessibility"
+    ]
+  },
+  {
+    "role": "Frontend Developer",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Responsive Design",
+      "UI Components",
+      "Git",
+      "Accessibility"
+    ],
+    "certifications": [
+      "Meta Front-End Developer Professional Certificate",
+      "Google Mobile Web Specialist",
+      "FreeCodeCamp Frontend Track"
+    ],
+    "recommended_projects": [
+      "Portfolio Website",
+      "E-commerce UI",
+      "Dashboard Interface",
+      "Landing Page"
+    ],
+    "learning_path": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Responsive Design"
+    ],
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Responsive Design",
+      "UI Components",
+      "Git",
+      "Accessibility"
+    ]
+  },
+  {
+    "role": "Backend Developer",
+    "skills": [
+      "Python",
+      "Flask",
+      "APIs",
+      "Databases",
+      "SQL",
+      "Authentication",
+      "Testing",
+      "Deployment"
+    ],
+    "certifications": [
+      "AWS Developer Associate",
+      "Google Cloud Engineer",
+      "Django Certification Track"
+    ],
+    "recommended_projects": [
+      "REST API Service",
+      "Task Tracking Backend",
+      "Auth System",
+      "Inventory API"
+    ],
+    "learning_path": [
+      "Python",
+      "APIs",
+      "Databases",
+      "Testing",
+      "Deployment"
+    ],
+    "required_skills": [
+      "Python",
+      "Flask",
+      "APIs",
+      "Databases",
+      "SQL",
+      "Authentication",
+      "Testing",
+      "Deployment"
+    ]
+  },
+  {
+    "role": "Full Stack Developer",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS",
+      "React",
+      "Flask",
+      "Databases",
+      "Git"
+    ],
+    "certifications": [
+      "AWS Cloud Practitioner",
+      "Meta Full Stack Developer",
+      "Google Cloud Skills Boost"
+    ],
+    "recommended_projects": [
+      "Blog Platform",
+      "Project Management App",
+      "E-commerce Website",
+      "Portfolio with Admin Panel"
+    ],
+    "learning_path": [
+      "Frontend",
+      "Backend",
+      "Databases",
+      "Deployment",
+      "APIs"
+    ],
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS",
+      "React",
+      "Flask",
+      "Databases",
+      "Git"
+    ]
+  },
+  {
+    "role": "Product Analyst",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Product Metrics",
+      "Data Analysis",
+      "Documentation",
+      "Stakeholder Communication",
+      "Analytics Tools",
+      "A/B Testing"
+    ],
+    "certifications": [
+      "Google Data Analytics",
+      "Product School Fundamentals",
+      "Microsoft Excel Certification"
+    ],
+    "recommended_projects": [
+      "Product Funnel Analysis",
+      "User Retention Dashboard",
+      "Feature Usage Study",
+      "A/B Testing Report"
+    ],
+    "learning_path": [
+      "Product Thinking",
+      "SQL",
+      "Metrics",
+      "A/B Testing",
+      "Communication"
+    ],
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Product Metrics",
+      "Data Analysis",
+      "Documentation",
+      "Stakeholder Communication",
+      "Analytics Tools",
+      "A/B Testing"
+    ]
+  },
+  {
+    "role": "Business Analyst",
+    "skills": [
+      "Excel",
+      "SQL",
+      "Requirements Gathering",
+      "Documentation",
+      "Process Mapping",
+      "Power BI",
+      "Stakeholder Management",
+      "Problem Solving"
+    ],
+    "certifications": [
+      "CBAP Foundation",
+      "Microsoft Power BI Certification",
+      "Google Business Intelligence"
+    ],
+    "recommended_projects": [
+      "Process Improvement Plan",
+      "Operational Dashboard",
+      "Business Case Analysis",
+      "Requirements Document"
+    ],
+    "learning_path": [
+      "Excel",
+      "SQL",
+      "Process Mapping",
+      "Business Analysis",
+      "Reporting"
+    ],
+    "required_skills": [
+      "Excel",
+      "SQL",
+      "Requirements Gathering",
+      "Documentation",
+      "Process Mapping",
+      "Power BI",
+      "Stakeholder Management",
+      "Problem Solving"
+    ]
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "Model Deployment",
+      "Pandas",
+      "Scikit-learn",
+      "MLOps",
+      "Data Cleaning"
+    ],
+    "certifications": [
+      "AWS Machine Learning Specialty",
+      "IBM AI Developer",
+      "Google Machine Learning Engineer"
+    ],
+    "recommended_projects": [
+      "Spam Detection",
+      "Credit Risk Prediction",
+      "Recommendation System",
+      "Model Monitoring Dashboard"
+    ],
+    "learning_path": [
+      "Python",
+      "Machine Learning",
+      "Model Deployment",
+      "MLOps",
+      "Statistics"
+    ],
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "Model Deployment",
+      "Pandas",
+      "Scikit-learn",
+      "MLOps",
+      "Data Cleaning"
+    ]
+  },
+  {
+    "role": "AI Engineer",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "LLM Prompting",
+      "Model Evaluation",
+      "NLP",
+      "Pandas",
+      "APIs"
+    ],
+    "certifications": [
+      "Google AI Essentials",
+      "AWS AI Practitioner",
+      "Microsoft Azure AI Fundamentals"
+    ],
+    "recommended_projects": [
+      "AI Chatbot",
+      "Document Summarizer",
+      "Sentiment Analysis",
+      "Search Assistant"
+    ],
+    "learning_path": [
+      "Python",
+      "AI Basics",
+      "NLP",
+      "APIs",
+      "Prompt Engineering"
+    ],
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "LLM Prompting",
+      "Model Evaluation",
+      "NLP",
+      "Pandas",
+      "APIs"
+    ]
+  },
+  {
+    "role": "DevOps Engineer",
+    "skills": [
+      "Linux",
+      "Docker",
+      "CI/CD",
+      "Cloud",
+      "Git",
+      "Automation",
+      "Monitoring",
+      "Shell Scripting"
+    ],
+    "certifications": [
+      "AWS Cloud Practitioner",
+      "Azure Fundamentals",
+      "Google Associate Cloud Engineer"
+    ],
+    "recommended_projects": [
+      "CI/CD Pipeline",
+      "Dockerized App Deployment",
+      "Monitoring Dashboard",
+      "Infrastructure Automation"
+    ],
+    "learning_path": [
+      "Linux",
+      "Docker",
+      "CI/CD",
+      "Cloud",
+      "Automation"
+    ],
+    "required_skills": [
+      "Linux",
+      "Docker",
+      "CI/CD",
+      "Cloud",
+      "Git",
+      "Automation",
+      "Monitoring",
+      "Shell Scripting"
+    ]
+  },
+  {
+    "role": "Cloud Engineer",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Cloud Architecture",
+      "Linux",
+      "Networking",
+      "Security",
+      "Terraform",
+      "Monitoring"
+    ],
+    "certifications": [
+      "AWS Solutions Architect Associate",
+      "Azure Administrator Associate",
+      "Google Cloud Associate"
+    ],
+    "recommended_projects": [
+      "Cloud Migration",
+      "Serverless App",
+      "VPC Design",
+      "Cost Optimization Dashboard"
+    ],
+    "learning_path": [
+      "Cloud Basics",
+      "Networking",
+      "Security",
+      "Terraform",
+      "Monitoring"
+    ],
+    "required_skills": [
+      "AWS",
+      "Azure",
+      "Cloud Architecture",
+      "Linux",
+      "Networking",
+      "Security",
+      "Terraform",
+      "Monitoring"
+    ]
+  },
+  {
+    "role": "Cybersecurity Analyst",
+    "skills": [
+      "Networking",
+      "Security Fundamentals",
+      "Linux",
+      "Threat Analysis",
+      "Incident Response",
+      "SIEM",
+      "Python",
+      "Risk Assessment"
+    ],
+    "certifications": [
+      "CompTIA Security+",
+      "Certified Ethical Hacker",
+      "Cisco CyberOps Associate"
+    ],
+    "recommended_projects": [
+      "Security Log Analysis",
+      "Vulnerability Assessment",
+      "Threat Detection Dashboard",
+      "Phishing Simulation"
+    ],
+    "learning_path": [
+      "Networking",
+      "Security Basics",
+      "Linux",
+      "Threat Analysis",
+      "Incident Response"
+    ],
+    "required_skills": [
+      "Networking",
+      "Security Fundamentals",
+      "Linux",
+      "Threat Analysis",
+      "Incident Response",
+      "SIEM",
+      "Python",
+      "Risk Assessment"
+    ]
+  },
+  {
+    "role": "QA Engineer",
+    "skills": [
+      "Manual Testing",
+      "Automation",
+      "SQL",
+      "Selenium",
+      "Test Cases",
+      "Bug Reporting",
+      "API Testing",
+      "Problem Solving"
+    ],
+    "certifications": [
+      "ISTQB Foundation",
+      "Selenium Certification",
+      "API Testing Certification"
+    ],
+    "recommended_projects": [
+      "Bug Report Dashboard",
+      "Regression Test Suite",
+      "API Test Automation",
+      "UI Testing"
+    ],
+    "learning_path": [
+      "Testing Basics",
+      "Automation",
+      "API Testing",
+      "Bug Reporting",
+      "Selenium"
+    ],
+    "required_skills": [
+      "Manual Testing",
+      "Automation",
+      "SQL",
+      "Selenium",
+      "Test Cases",
+      "Bug Reporting",
+      "API Testing",
+      "Problem Solving"
+    ]
+  },
+  {
+    "role": "Digital Marketing Analyst",
+    "skills": [
+      "SEO",
+      "Google Analytics",
+      "Campaign Analysis",
+      "Social Media",
+      "Excel",
+      "Content Strategy",
+      "Paid Ads",
+      "Reporting"
+    ],
+    "certifications": [
+      "Google Analytics Certification",
+      "HubSpot Digital Marketing",
+      "Meta Marketing Associate"
+    ],
+    "recommended_projects": [
+      "Campaign Performance Dashboard",
+      "SEO Audit",
+      "Audience Segmentation",
+      "Landing Page Report"
+    ],
+    "learning_path": [
+      "SEO",
+      "Analytics",
+      "Content Strategy",
+      "Paid Ads",
+      "Reporting"
+    ],
+    "required_skills": [
+      "SEO",
+      "Google Analytics",
+      "Campaign Analysis",
+      "Social Media",
+      "Excel",
+      "Content Strategy",
+      "Paid Ads",
+      "Reporting"
+    ]
+  },
+  {
+    "role": "HR Recruiter",
+    "skills": [
+      "Talent Acquisition",
+      "Interviewing",
+      "Communication",
+      "Hiring Process",
+      "Candidate Screening",
+      "ATS Tools",
+      "Excel",
+      "Scheduling"
+    ],
+    "certifications": [
+      "SHRM Foundation",
+      "LinkedIn Recruiting",
+      "HRCI Basics"
+    ],
+    "recommended_projects": [
+      "Hiring Pipeline Dashboard",
+      "Candidate Shortlisting Framework",
+      "Recruitment Metrics Report",
+      "Interview Tracking Sheet"
+    ],
+    "learning_path": [
+      "Recruitment Basics",
+      "Interviewing",
+      "Screening",
+      "ATS Tools",
+      "Communication"
+    ],
+    "required_skills": [
+      "Talent Acquisition",
+      "Interviewing",
+      "Communication",
+      "Hiring Process",
+      "Candidate Screening",
+      "ATS Tools",
+      "Excel",
+      "Scheduling"
+    ]
+  },
+  {
+    "role": "Project Manager",
+    "skills": [
+      "Stakeholder Management",
+      "Agile",
+      "Risk Management",
+      "Documentation",
+      "Planning",
+      "Communication",
+      "Excel",
+      "Project Tracking"
+    ],
+    "certifications": [
+      "CAPM",
+      "PMP Foundation",
+      "Scrum Fundamentals"
+    ],
+    "recommended_projects": [
+      "Sprint Planning Dashboard",
+      "Risk Register",
+      "Process Improvement Plan",
+      "Project Status Tracker"
+    ],
+    "learning_path": [
+      "Agile",
+      "Planning",
+      "Documentation",
+      "Risk Management",
+      "Communication"
+    ],
+    "required_skills": [
+      "Stakeholder Management",
+      "Agile",
+      "Risk Management",
+      "Documentation",
+      "Planning",
+      "Communication",
+      "Excel",
+      "Project Tracking"
+    ]
+  },
+  {
+    "role": "Technical Writer",
+    "skills": [
+      "Documentation",
+      "Technical Research",
+      "Editing",
+      "Content Strategy",
+      "User Manuals",
+      "Markdown",
+      "Communication",
+      "Product Knowledge"
+    ],
+    "certifications": [
+      "Google Technical Writing",
+      "API Documentation Certification",
+      "Microsoft Documentation Training"
+    ],
+    "recommended_projects": [
+      "API Documentation",
+      "User Guide",
+      "Release Notes",
+      "Knowledge Base Article"
+    ],
+    "learning_path": [
+      "Documentation",
+      "Editing",
+      "Research",
+      "Markdown",
+      "Communication"
+    ],
+    "required_skills": [
+      "Documentation",
+      "Technical Research",
+      "Editing",
+      "Content Strategy",
+      "User Manuals",
+      "Markdown",
+      "Communication",
+      "Product Knowledge"
+    ]
+  },
+  {
+    "role": "Data Engineer",
+    "skills": [
+      "SQL",
+      "Python",
+      "ETL",
+      "Data Warehousing",
+      "Pipelines",
+      "Spark",
+      "Cloud Storage",
+      "Data Modeling"
+    ],
+    "certifications": [
+      "Google Cloud Data Engineer",
+      "AWS Data Engineer Associate",
+      "Databricks Lakehouse Fundamentals"
+    ],
+    "recommended_projects": [
+      "ETL Pipeline",
+      "Sales Data Warehouse",
+      "Streaming Data Processing",
+      "Data Quality Dashboard"
+    ],
+    "learning_path": [
+      "SQL",
+      "Python",
+      "ETL",
+      "Data Warehousing",
+      "Pipeline Design"
+    ],
+    "required_skills": [
+      "SQL",
+      "Python",
+      "ETL",
+      "Data Warehousing",
+      "Pipelines",
+      "Spark",
+      "Cloud Storage",
+      "Data Modeling"
+    ]
+  }
+]

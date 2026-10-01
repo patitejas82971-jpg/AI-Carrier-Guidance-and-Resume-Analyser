@@ -1,0 +1,32 @@
+[
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/jobs/",
+    "roles": ["Data Analyst", "Data Scientist", "Software Developer", "UX Designer"]
+  },
+  {
+    "name": "Indeed",
+    "url": "https://in.indeed.com/",
+    "roles": ["Data Analyst", "Data Scientist", "Software Developer", "UX Designer"]
+  },
+  {
+    "name": "Naukri",
+    "url": "https://www.naukri.com/",
+    "roles": ["Data Analyst", "Data Scientist", "Software Developer"]
+  },
+  {
+    "name": "Wellfound",
+    "url": "https://wellfound.com/jobs",
+    "roles": ["Software Developer", "UX Designer"]
+  },
+  {
+    "name": "Internshala",
+    "url": "https://internshala.com/",
+    "roles": ["Data Analyst", "Software Developer", "UX Designer"]
+  },
+  {
+    "name": "Glassdoor",
+    "url": "https://www.glassdoor.co.in/",
+    "roles": ["Data Analyst", "Data Scientist", "Software Developer"]
+  }
+]

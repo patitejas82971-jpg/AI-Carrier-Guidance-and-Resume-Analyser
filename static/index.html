@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Career Guidance & Resume Analyzer</title>
+    <meta
+      name="description"
+      content="AI Career Guidance and Resume Analyzer for personalized plans, resume reviews, and ATS optimization."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="navbar container">
+        <div class="brand">
+          <div class="brand-mark">AI</div>
+          <span>Career Guidance</span>
+        </div>
+        <div class="nav-links">
+          <a href="#home">Home</a>
+          <a href="#career-guide">Career Guide</a>
+          <a href="#resume-analyzer">Resume Analyzer</a>
+          <a href="#resources">Resources</a>
+          <a href="#about">About</a>
+        </div>
+        <button class="btn btn-primary small">Get Started</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home" class="hero">
+        <div class="container hero-inner">
+          <div class="hero-copy">
+            <span class="eyebrow">AI Career Guidance</span>
+            <h1>AI Career Guidance<br />& Resume Analyzer</h1>
+            <p>Plan your career. Improve your resume. Prepare for your dream role.</p>
+            <div class="hero-actions">
+              <a class="btn btn-primary" href="#career-guide">Build My 30-Day Plan</a>
+              <a class="btn btn-secondary" href="#resume-analyzer">Analyze My Resume</a>
+            </div>
+          </div>
+          <div class="hero-card">
+            <div class="mini-card active">
+              <strong>Career Growth</strong>
+              <span>Personalized roadmap</span>
+            </div>
+            <div class="mini-card">
+              <strong>Resume Match</strong>
+              <span>ATS score and feedback</span>
+            </div>
+            <div class="mini-card">
+              <strong>Skill Gaps</strong>
+              <span>Targeted recommendations</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="features container">
+        <div class="feature-card">
+          <h3>30-Day Career Plan</h3>
+          <p>Get a personalized learning roadmap based on your strengths and goals.</p>
+        </div>
+        <div class="feature-card">
+          <h3>AI Resume Analysis</h3>
+          <p>Compare your resume with your target role and improve the fit.</p>
+        </div>
+        <div class="feature-card">
+          <h3>ATS Optimization</h3>
+          <p>Find missing keywords and improve your resume for recruiter screening.</p>
+        </div>
+      </section>
+
+      <section class="container quick-stats">
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span>Career Readiness</span>
+            <strong>Personalized</strong>
+          </div>
+          <div class="stat-card">
+            <span>Resume Fit</span>
+            <strong>ATS-aware</strong>
+          </div>
+          <div class="stat-card">
+            <span>Learning Path</span>
+            <strong>30-day roadmap</strong>
+          </div>
+        </div>
+        <div id="recent-activity" class="activity-panel"></div>
+      </section>
+
+      <section id="career-guide" class="module container">
+        <div class="section-heading">
+          <span class="tag">Career Guide</span>
+          <h2>Generate your 30-day plan</h2>
+        </div>
+
+        <div class="module-layout">
+          <form id="career-form" class="panel form-panel">
+            <label>
+              <span>Name</span>
+              <input type="text" name="name" placeholder="Enter your name" required />
+            </label>
+            <label>
+              <span>Target Role</span>
+              <input list="role-options" type="text" name="target_role" placeholder="Data Scientist" required />
+              <datalist id="role-options"></datalist>
+            </label>
+            <label>
+              <span>Current Skills</span>
+              <textarea name="skills" rows="4" placeholder="Python, SQL, Power BI" required></textarea>
+            </label>
+            <button type="submit" class="btn btn-primary full">Generate 30-Day Career Plan</button>
+          </form>
+
+          <div class="results panel" id="career-result">
+            <div class="empty-state">
+              <h3>Career Analysis</h3>
+              <p>Your personalized plan will appear here after you generate it.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="resume-analyzer" class="module alt-bg">
+        <div class="container">
+          <div class="section-heading">
+            <span class="tag">Resume Analyzer</span>
+            <h2>Check your resume against the target role</h2>
+          </div>
+
+          <div class="module-layout">
+            <form id="resume-form" class="panel form-panel">
+              <label>
+                <span>Upload Resume</span>
+                <input type="file" name="resume" accept=".pdf,.docx" required />
+              </label>
+              <label>
+                <span>Target Role</span>
+                <input list="role-options" type="text" name="target_role" placeholder="Data Analyst" required />
+              </label>
+              <button type="submit" class="btn btn-primary full">Analyze Resume</button>
+            </form>
+
+            <div class="results panel" id="resume-result">
+              <div class="empty-state">
+                <h3>Resume Insights</h3>
+                <p>Your ATS score and skill recommendations will appear here.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="resources" class="container resources-section">
+        <div class="section-heading">
+          <span class="tag">Resources</span>
+          <h2>ATS-friendly job and resume resources</h2>
+        </div>
+        <div class="resource-grid">
+          <div class="resource-card">
+            <h3>Resume.io</h3>
+            <p>Professional resume builder for clean, ATS-friendly layouts.</p>
+            <a href="https://resume.io/" target="_blank" rel="noreferrer">Visit site</a>
+          </div>
+          <div class="resource-card">
+            <h3>Teal</h3>
+            <p>Career tools for resume building, tracking, and job applications.</p>
+            <a href="https://www.tealhq.com/" target="_blank" rel="noreferrer">Visit site</a>
+          </div>
+          <div class="resource-card">
+            <h3>Jobscan</h3>
+            <p>Compare resume keywords with job descriptions for ATS optimization.</p>
+            <a href="https://www.jobscan.co/" target="_blank" rel="noreferrer">Visit site</a>
+          </div>
+          <div class="resource-card">
+            <h3>Enhancv</h3>
+            <p>Resume templates and improvements for modern job applications.</p>
+            <a href="https://enhancv.com/" target="_blank" rel="noreferrer">Visit site</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="module container interview-section" id="interview-prep">
+        <div class="section-heading">
+          <span class="tag">Interview Prep</span>
+          <h2>Practice for your target role</h2>
+        </div>
+
+        <div class="module-layout">
+          <form id="interview-form" class="panel form-panel">
+            <label>
+              <span>Target Role</span>
+              <input list="role-options" type="text" name="target_role" placeholder="Data Analyst" required />
+            </label>
+            <label>
+              <span>Your Skills</span>
+              <textarea name="skills" rows="4" placeholder="Python, SQL, Excel"></textarea>
+            </label>
+            <button type="submit" class="btn btn-primary full">Generate Interview Prep</button>
+          </form>
+
+          <div class="results panel" id="interview-result">
+            <div class="empty-state">
+              <h3>Interview Questions</h3>
+              <p>Your target-role interview prep will appear here.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="about section container">
+        <div class="section-heading">
+          <span class="tag">About</span>
+          <h2>Made for students and job seekers</h2>
+        </div>
+        <p>
+          This platform helps freshers and early-career professionals build a realistic path to their dream role,
+          review their resume against role expectations, and improve their placement readiness with practical AI guidance.
+        </p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>© 2026 AI Career Guidance & Resume Analyzer</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
